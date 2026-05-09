@@ -1,26 +1,54 @@
-# 🎓 Formation Développeur Fullstack
+# 🎓 Parcours Développeur Fullstack & Amélioration Continue
 
-Bienvenue sur mon dépôt de formation dédié à mon parcours de développeur fullstack.
+Bienvenue sur mon dépôt principal de formation et de consolidation en développement fullstack.
 
-Ce repository regroupe l’ensemble de mes apprentissages, exercices et projets réalisés au fil de ma progression en développement web.
+Ce repository regroupe mes cours, exercices et projets réalisés dans une démarche volontaire de remise à niveau structurée et d’amélioration continue de mes compétences.
 
 ---
 
-# 🧭 Objectif du projet
+# 👨‍💻 Positionnement
 
-Ce dépôt a trois objectifs principaux :
+Je suis déjà développeur fullstack avec une expérience pratique du développement web.
 
-- 📚 Structurer mon apprentissage du développement web de manière progressive
-- 🛠️ Mettre en pratique chaque notion via des exercices concrets
-- 🚀 Construire un ou plusieurs projets évolutifs (projet fil rouge)
+Ce repository ne représente pas un apprentissage de zéro, mais une démarche de :
 
-L’idée centrale est de transformer chaque cours en compétence appliquée.
+- 🔄 remise à niveau structurée des fondamentaux
+- 📚 consolidation des connaissances existantes
+- 🚀 mise à jour des pratiques modernes
+- 🧠 amélioration continue de mon niveau technique
+
+---
+
+# 🎯 Objectif du repository
+
+Ce projet a trois objectifs principaux :
+
+- 📚 Structurer et consolider mes connaissances en développement web
+- 🛠️ Revoir et pratiquer les fondamentaux à travers des exercices concrets
+- 🚀 Développer un projet fil rouge évolutif couvrant l’ensemble de la stack
+
+Chaque notion est immédiatement appliquée dans un contexte pratique.
+
+---
+
+# 🧭 Philosophie
+
+Le développement web évolue en permanence.
+
+Même en étant déjà opérationnel sur des projets fullstack, il est essentiel de :
+
+- revoir les bases avec rigueur
+- corriger les mauvaises habitudes accumulées avec le temps
+- renforcer les bonnes pratiques modernes
+- maintenir un haut niveau de qualité de code
+
+> “Toujours rester en apprentissage, même lorsqu'on est déjà opérationnel.”
 
 ---
 
 # 🏗️ Organisation du repository
 
-Le projet est organisé par grandes étapes d’apprentissage :
+Le repository est structuré par étapes de montée en compétence :
 
 ```txt
 /01-html
