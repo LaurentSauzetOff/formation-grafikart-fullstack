@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mon restaurant, contact</title>
+    <meta
+      name="description"
+      content="Bienvenue sur le site de notre restaurant ! Découvrez notre menu délicieux, nos offres spéciales et réservez votre table en ligne. Nous vous attendons pour une expérience culinaire inoubliable."
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Nous contacter</h1>
+      <nav>
+        <a href="index.html" title="Accueil">Accueil</a>
+        <a href="menu.html" title="Menu">Menu</a>
+        <a href="contact.html" title="Contact">Contact</a>
+      </nav>
+      <img src="img/oranges.jpg" width="100" alt="Oranges" />
+    </header>
+    <article>
+      <h2>Où nous trouver</h2>
+      <p>1 rue de Bourgogne, 75000 Paris, France</p>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.896657018903!2d2.3158592768917767!3d48.86018100058006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fd446e91a85%3A0x284af82f7c3b5b3!2s1%20Rue%20de%20Bourgogne%2C%2075007%20Paris!5e0!3m2!1sen!2sfr!4v1778426153063!5m2!1sen!2sfr"
+        width="1200"
+        height="300"
+        style="border: 0"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+
+      <h2>Nous envoyer un email</h2>
+      <form action="contact.html">
+        <div>
+          <label for="email">Votre email <sup>*</sup></label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="example@gmail.com"
+            required
+          />
+        </div>
+        <div>
+          <label for="firstname">Votre prénom <sup>*</sup></label>
+          <input type="text" name="firstname" id="firstname" required />
+        </div>
+        <div>
+          <label for="message">Votre Message <sup>*</sup></label>
+          <textarea name="message" id="message" required></textarea>
+        </div>
+        <button type="submit">Envoyer</button>
+      </form>
+    </article>
+    <footer>
+      <address>1 rue de Bourgogne, 75000 Paris, France</address>
+    </footer>
+  </body>
+</html>
