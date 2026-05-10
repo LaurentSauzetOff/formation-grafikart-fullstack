@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="Le Fiasco, restaurant de fruits de mer à Montpellier"
+    />
+    <meta name="keywords" content="Restaurant, fruits de mer, Montpellier" />
+    <title>Le Fiasco, nous contacter</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html" title="Accueil">Accueil</a></li>
+        <li><a href="menu.html" title="Menu">Menu</a></li>
+        <li><a href="contact.html" title="Contact">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>Nous contacter</h1>
+    <form action="contact.html" method="post">
+      <fieldset>
+        <legend>Nous contacter</legend>
+        <div>
+          <label for="emailInput">Votre email</label>
+          <input type="text" name="email" id="emailInput" />
+        </div>
+        <div>
+          <label for="sexe">Sexe</label>
+          <select name="sexe" id="sexe">
+            <option value="masculin">Masculin</option>
+            <option value="feminin">Féminin</option>
+          </select>
+        </div>
+        <div>
+          <label for="message">Votre message</label>
+          <textarea name="message" id="message"></textarea>
+        </div>
+        <div>
+          <label for="CEU">
+            <input type="checkbox" name="CEU" id="CEU" />J'accepte les
+            conditions d'utilisation</label
+          >
+        </div>
+        <input type="submit" value="Envoyer" />
+      </fieldset>
+    </form>
+  </body>
+</html>
