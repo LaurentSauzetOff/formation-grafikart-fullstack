@@ -6,6 +6,30 @@ body {
     sans-serif;
 }
 
+.demo {
+  display: flex;
+  flex-direction: row;
+  height: 600px;
+  background: lightgray;
+}
+
+.square1, .square2, .square3 {
+  width: 200px;
+  height: 200px;
+  color: white;
+}
+
+.square1 {
+  background: red;
+}
+
+.square2 {
+  background: green;
+}
+
+.square3 {
+  background: blue;
+}
 
 button {
   border: solid 1px gray;
