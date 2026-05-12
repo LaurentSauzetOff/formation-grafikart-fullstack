@@ -1,3 +1,33 @@
-ol li:first-child {
-    color: red;
+body {
+  color: grey;
+  font:
+    16px/1.4 Arial,
+    Helvetica,
+    sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: black;
+  text-wrap: balanced;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+p {
+  text-align: start;
+  text-wrap: pretty;
 }
