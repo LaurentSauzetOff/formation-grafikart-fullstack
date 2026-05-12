@@ -1,5 +1,5 @@
 body {
-  color: grey;
+  color: #2a2422;
   font:
     16px/1.4 Arial,
     Helvetica,
@@ -20,14 +20,13 @@ h1 {
 }
 
 nav {
-    background-color: black;
-    border: 10px solid rgb(38, 37, 37);
-    border-radius: 10px;
+  background-color: black;
+  border: 10px solid rgb(38, 37, 37);
+  border-radius: 10px;
 }
 
 img {
-
-    box-shadow: 10px 10px 10px green;
+  box-shadow: 10px 10px 10px green;
 }
 
 nav a {
