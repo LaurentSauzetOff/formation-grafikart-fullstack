@@ -84,7 +84,6 @@ a {
     background: #944226;
 }
 
-
 .hero {
     margin-block: 4rem 5rem;
 }
@@ -98,6 +97,7 @@ a {
 }
 
 .hero-title {
+    font-family: 'Manrope';
     color: #1C1917;
     font-size: 5.5rem;
     font-weight: 700;
